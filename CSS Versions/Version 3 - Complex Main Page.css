@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'fruktur';
+    src: url('../Recources/Fruktur/Fruktur.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+#canvas {
+    position: absolute;
+}
+#backgroundImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
